@@ -119,7 +119,7 @@ The scripts are meant to run as **Python script objects (ComPython) inside a Pow
 
 ## Author
 
-**Martin Sanchez** ([@nensanc](https://github.com/nensanc))
+**Martin Sanchez** ([@martinmsanchezm](https://github.com/martinmsanchezm))
 
 ## License
 
